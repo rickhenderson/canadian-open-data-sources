@@ -11,7 +11,7 @@ A collection of links and sources for Canadian Open Data that might be useful. A
 
 #### Regional and Municipal Data
 * [Open Data - City of Waterloo](http://www.waterloo.ca/en/government/opendata.asp)
-  * [Street Trees](https://services.arcgis.com/ZpeBVw5o1kjit7LT/arcgis/rest/services/StreetTrees/FeatureServer/0) - list of managed trees in Waterloo and their location. 4MB CSV File, approx. 30403 rows, 9 variables. 
+  * [Street Trees](http://opendata.city-of-waterloo.opendata.arcgis.com/datasets/bc27d191db554b4aba8845b1d60dd16c_0) - list of managed trees in Waterloo and their location. 4MB CSV File, approx. 30403 rows, 9 variables. 
 * [Parks](http://opendata.city-of-waterloo.opendata.arcgis.com/datasets/5934645858f24c06944352c0ce285b4e_0) - list of parks in Waterloo. 30 KB CSV File, 299 rows, 24 variables] [direct .csv download](http://opendata.city-of-waterloo.opendata.arcgis.com/datasets/5934645858f24c06944352c0ce285b4e_0.csv)
 * [Region of Waterloo Open Data](http://www.regionofwaterloo.ca/en/regionalGovernment/OpenDataHome.asp)
 * [Open Data Toronto](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=9e56e03bb8d1e310VgnVCM10000071d60f89RCRD)
