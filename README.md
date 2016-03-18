@@ -19,3 +19,6 @@ A collection of links and sources for Canadian Open Data that might be useful. A
 
 ### Awesome Open Data from the United States
 [Open Baltimore](https://data.baltimorecity.gov/)
+
+# World Data Sets
+[WorldBank Open Data](http://data.worldbank.org/) - contains international datasets and microdata on info such as poverty, health, environment, GDP, finances, important stuff...
