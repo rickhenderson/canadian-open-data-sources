@@ -23,3 +23,5 @@ A collection of links and sources for Canadian Open Data that might be useful. A
 # World Data Sets
 * [WorldBank Open Data](http://data.worldbank.org/) - contains international datasets and microdata on info such as poverty, health, environment, GDP, finances, important stuff...
 * [Red Cross and Red Crescent Societies](http://www.ifrc.org/en/who-we-are/data-explorer/) - data tables and data explorer for Red Cross and Red Crescent humanitarian aid around the world
+* [United Nations Statistics Division (UNSD) Demographic Yearbook data](http://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm)
+* [UN Data - United Nations Data Explorer](http://data.un.org/Explorer.aspx)
