@@ -5,7 +5,7 @@ A collection of links and sources for Canadian Open Data that might be useful. A
 
 ### Canadian Government
 * [Open Government Across Canada](http://open.canada.ca/en/maps/open-data-canada)
-
+* [OpenParliament](https://openparliament.ca/) - legislation and vote data by OpenNorth
 #### Provincial Government
 * [Ontario Open Data](https://www.ontario.ca/page/sharing-government-data)
 
@@ -17,7 +17,8 @@ A collection of links and sources for Canadian Open Data that might be useful. A
 * [Region of Waterloo Open Data](http://www.regionofwaterloo.ca/en/regionalGovernment/OpenDataHome.asp)
 * [Open Data Toronto](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=9e56e03bb8d1e310VgnVCM10000071d60f89RCRD)
 * [City of Barrie Open Data](https://opendata.barrie.ca/)
-
+* [OpenNorth Represent API](http://represent.opennorth.ca/) - API to query local repsentatives (eg. MP, MPP, and city councilor) by OpenNorth
+* 
 ### Awesome Open Data from the United States
 [Open Baltimore](https://data.baltimorecity.gov/)
 
